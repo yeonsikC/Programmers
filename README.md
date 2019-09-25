@@ -5,6 +5,7 @@
 
 https://programmers.co.kr/learn/challenges
 | 종류 |
+| --- | --- |
 | 해시 | Key-value 쌍으로 데이터를 저장하는 자료구조|
 | 스택/큐 | LIFO, FIFO, push & pop |
 | 힙 | 특정한 규칙을 가지는 트리로, 힙을 이용해서 우선순위 큐를 구현 |

@@ -22,12 +22,12 @@ https://programmers.co.kr/learn/challenges
 | 문제 | 코드 |
 | --- | --- |
 | [완주하지 못한 선수](https://programmers.co.kr/learn/courses/30/lessons/42576) | [py](완주하지_못한_선수.py) 
-| [모의고사](https://programmers.co.kr/learn/courses/30/lessons/42840) |
-| [체육복](https://programmers.co.kr/learn/courses/30/lessons/42862) | 
-| [K번째수](https://programmers.co.kr/learn/courses/30/lessons/42748) |
-| [2016년](https://programmers.co.kr/learn/courses/30/lessons/12901) | 
-| [가운데 글자 가져오기](https://programmers.co.kr/learn/courses/30/lessons/12903) |
-| [같은 숫자는 싫어](https://programmers.co.kr/learn/courses/30/lessons/12906) |
+| [모의고사](https://programmers.co.kr/learn/courses/30/lessons/42840) | [py](모의고사.py) 
+| [체육복](https://programmers.co.kr/learn/courses/30/lessons/42862) | [py](체육복.py)  
+| [K번째수](https://programmers.co.kr/learn/courses/30/lessons/42748) | [py](K번째수.py) 
+| [2016년](https://programmers.co.kr/learn/courses/30/lessons/12901) | [py](2016년.py) 
+| [가운데 글자 가져오기](https://programmers.co.kr/learn/courses/30/lessons/12903) | [py](가운데_글자_가져오기.py) 
+| [같은 숫자는 싫어](https://programmers.co.kr/learn/courses/30/lessons/12906) | [py](모의고사.py) 
 | [나누어 떨어지는 숫자 배열](https://programmers.co.kr/learn/courses/30/lessons/12910) |
 | [두 정수 사이의 합](https://programmers.co.kr/learn/courses/30/lessons/12912) |
 | [문자열 내 마음대로 정렬하기](https://programmers.co.kr/learn/courses/30/lessons/12915) |

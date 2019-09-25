@@ -17,7 +17,7 @@ https://programmers.co.kr/learn/challenges
 | 그래프 | 엣지를 지나 그래프의 노드를 탐험 |
 
 | Level 1 |
-| ---------- |
+| ---------- | ---------- 
 | [완주하지 못한 선수](https://programmers.co.kr/learn/courses/30/lessons/42576) | [모의고사](https://programmers.co.kr/learn/courses/30/lessons/42840) |
 | [체육복](https://programmers.co.kr/learn/courses/30/lessons/42862) | [K번째수](https://programmers.co.kr/learn/courses/30/lessons/42748) |
 | [2016년](https://programmers.co.kr/learn/courses/30/lessons/12901) | [가운데 글자 가져오기](https://programmers.co.kr/learn/courses/30/lessons/12903) | [같은 숫자는 싫어](https://programmers.co.kr/learn/courses/30/lessons/12906) |

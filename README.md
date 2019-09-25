@@ -19,7 +19,7 @@ https://programmers.co.kr/learn/challenges
 | 그래프 | 엣지를 지나 그래프의 노드를 탐험 |
 
 ## Level 1
-| 문제 | 답 |
+| 문제 | 코드 |
 | --- | --- |
 | [완주하지 못한 선수](https://programmers.co.kr/learn/courses/30/lessons/42576) |
 | [모의고사](https://programmers.co.kr/learn/courses/30/lessons/42840) |
@@ -56,3 +56,125 @@ https://programmers.co.kr/learn/challenges
 | [x만큼 간격이 있는 n개의 숫자](https://programmers.co.kr/learn/courses/30/lessons/12943) |
 | [직사각형 별찍기](https://programmers.co.kr/learn/courses/30/lessons/12944) |
 | [예산](https://programmers.co.kr/learn/courses/30/lessons/12945) |
+
+## Level 2
+| 문제 | 코드 |
+| ------------- |:-------------:|
+| [탑](https://programmers.co.kr/learn/courses/30/lessons/42588) | |
+| [스킬트리](https://programmers.co.kr/learn/courses/30/lessons/49993) | |
+| [124 나라의 숫자](https://programmers.co.kr/learn/courses/30/lessons/12899) | |
+| [기능개발](https://programmers.co.kr/learn/courses/30/lessons/42586) | |
+| [다리를 지나는 트럭](https://programmers.co.kr/learn/courses/30/lessons/42583) | |
+| [프린터](https://programmers.co.kr/learn/courses/30/lessons/42587) | |
+| [쇠막대기](https://programmers.co.kr/learn/courses/30/lessons/42585) | |
+| [주식가격](https://programmers.co.kr/learn/courses/30/lessons/42584) | |
+| [조이스틱](https://programmers.co.kr/learn/courses/30/lessons/42860) | |
+| [더 맵게](https://programmers.co.kr/learn/courses/30/lessons/42626) | |
+| [가장 큰 수](https://programmers.co.kr/learn/courses/30/lessons/42746) | |
+| [큰 수 만들기](https://programmers.co.kr/learn/courses/30/lessons/42883) | |
+| [소수 찾기](https://programmers.co.kr/learn/courses/30/lessons/42839) | |
+| [전화번호 목록](https://programmers.co.kr/learn/courses/30/lessons/42577) | |
+| [H-Index](https://programmers.co.kr/learn/courses/30/lessons/42747) | |
+| [위장](https://programmers.co.kr/learn/courses/30/lessons/42578) | |
+| [숫자 야구](https://programmers.co.kr/learn/courses/30/lessons/42841) | |
+| [구명보트](https://programmers.co.kr/learn/courses/30/lessons/42885) | |
+| [카펫](https://programmers.co.kr/learn/courses/30/lessons/42842) | |
+| [라면공장](https://programmers.co.kr/learn/courses/30/lessons/42629) | |
+| [타겟 넘버](https://programmers.co.kr/learn/courses/30/lessons/43165) | |
+| [가장 큰 정사각형 찾기](https://programmers.co.kr/learn/courses/30/lessons/12905) | |
+| [올바른 괄호](https://programmers.co.kr/learn/courses/30/lessons/12909) | |
+| [다음 큰 숫자](https://programmers.co.kr/learn/courses/30/lessons/12911) | |
+| [땅따먹기](https://programmers.co.kr/learn/courses/30/lessons/12913) | |
+| [폰켓몬](https://programmers.co.kr/learn/courses/30/lessons/1845) | |
+| [숫자의 표현](https://programmers.co.kr/learn/courses/30/lessons/12924) | |
+| [최댓값과 최솟값](https://programmers.co.kr/learn/courses/30/lessons/12939) | |
+| [최솟값 만들기](https://programmers.co.kr/learn/courses/30/lessons/12941) | |
+| [피보나치수](https://programmers.co.kr/learn/courses/30/lessons/12945) | |
+| [행렬의 곱셈](https://programmers.co.kr/learn/courses/30/lessons/12949) | |
+| [JadenCase 문자열 만들기](https://programmers.co.kr/learn/courses/30/lessons/12951) | |
+| [N개의 최소공배수](https://programmers.co.kr/learn/courses/30/lessons/12953) | |
+| [소수 만들기](https://programmers.co.kr/learn/courses/30/lessons/12977) | |
+| [점프와 순간 이동](https://programmers.co.kr/learn/courses/30/lessons/12980) | |
+| [영어 끝말잇기](https://programmers.co.kr/learn/courses/30/lessons/12981) | |
+| [예상 대진표](https://programmers.co.kr/learn/courses/30/lessons/12985) | |
+
+
+## Level 3
+| 문제 | 코드 |
+| ------------- |:-------------:|
+| [2xn 타일링](https://programmers.co.kr/learn/courses/30/lessons/12900) | |
+| [타일 장식물](https://programmers.co.kr/learn/courses/30/lessons/43104) | |
+| [네트워크](https://programmers.co.kr/learn/courses/30/lessons/43162) | |
+| [단속카메라](https://programmers.co.kr/learn/courses/30/lessons/42884) | |
+| [가장 먼 노드](https://programmers.co.kr/learn/courses/30/lessons/49189) | |
+| [단어 변환](https://programmers.co.kr/learn/courses/30/lessons/43163) | |
+| [예산](https://programmers.co.kr/learn/courses/30/lessons/43237) | |
+| [정수 삼각형](https://programmers.co.kr/learn/courses/30/lessons/43105) | |
+| [섬 연결하기](https://programmers.co.kr/learn/courses/30/lessons/42861) | |
+| [디스크 컨트롤러](https://programmers.co.kr/learn/courses/30/lessons/42627) | |
+| [여행경로](https://programmers.co.kr/learn/courses/30/lessons/43164) | |
+| [입국심사](https://programmers.co.kr/learn/courses/30/lessons/43238) | |
+| [이중우선순위큐](https://programmers.co.kr/learn/courses/30/lessons/42628) | |
+| [저울](https://programmers.co.kr/learn/courses/30/lessons/42886) | |
+| [순위](https://programmers.co.kr/learn/courses/30/lessons/49191) | |
+| [베스트앨범](https://programmers.co.kr/learn/courses/30/lessons/42579) | |
+| [등굣길](https://programmers.co.kr/learn/courses/30/lessons/42898) | |
+| [카카오프렌즈 컬러링북](https://programmers.co.kr/learn/courses/30/lessons/1829) | |
+| [브라이언의 고민](https://programmers.co.kr/learn/courses/30/lessons/1830) | |
+| [4단 고음](https://programmers.co.kr/learn/courses/30/lessons/1831) | |
+| [짝지어 제거하기](https://programmers.co.kr/learn/courses/30/lessons/12973) | |
+| [보행자 천국](https://programmers.co.kr/learn/courses/30/lessons/1832) | |
+| [가장 긴 펠린드롬](https://programmers.co.kr/learn/courses/30/lessons/12904) | |
+| [거스름돈](https://programmers.co.kr/learn/courses/30/lessons/12907) | |
+| [방문 길이](https://programmers.co.kr/learn/courses/30/lessons/49994) | |
+| [줄 서는 방법](https://programmers.co.kr/learn/courses/30/lessons/12936) | |
+| [하노이의 탑](https://programmers.co.kr/learn/courses/30/lessons/12946) | |
+| [배달](https://programmers.co.kr/learn/courses/30/lessons/12978) | |
+| [캠핑](https://programmers.co.kr/learn/courses/30/lessons/1833) | |
+| [숫자 게임](https://programmers.co.kr/learn/courses/30/lessons/12987) | |
+| [멀리 뛰기](https://programmers.co.kr/learn/courses/30/lessons/12914) | |
+| [야근 지수](https://programmers.co.kr/learn/courses/30/lessons/12927) | |
+| [최고의 집합](https://programmers.co.kr/learn/courses/30/lessons/12938) | |
+| [기지국 설치](https://programmers.co.kr/learn/courses/30/lessons/12979) | |
+
+## Level 4
+| 문제 | 코드 |
+| ------------- |:-------------:|
+| [카드게임](https://programmers.co.kr/learn/courses/30/lessons/42896) | |
+| [3xn 타일링](https://programmers.co.kr/learn/courses/30/lessons/12902) | |
+| [N-Queen](https://programmers.co.kr/learn/courses/30/lessons/12952) | |
+| [최적의 행렬 곱셈](https://programmers.co.kr/learn/courses/30/lessons/12942) | |
+| [스티커 모으기(2)](https://programmers.co.kr/learn/courses/30/lessons/12971) | |
+| [단어 퍼즐](https://programmers.co.kr/learn/courses/30/lessons/12983) | |
+| [지형 편집](https://programmers.co.kr/learn/courses/30/lessons/12984) | |
+| [징검다리](https://programmers.co.kr/learn/courses/30/lessons/43236) | |
+| [올바른 괄호의 갯수](https://programmers.co.kr/learn/courses/30/lessons/12929) | |
+| [쿠키 구입](https://programmers.co.kr/learn/courses/30/lessons/49995) | |
+| [선입 선출 스케줄링](https://programmers.co.kr/learn/courses/30/lessons/12920) | |
+| [숫자 블록](https://programmers.co.kr/learn/courses/30/lessons/12923) | |
+| [사칙연산](https://programmers.co.kr/learn/courses/30/lessons/1843) | |
+| [게임 맵 최단거리](https://programmers.co.kr/learn/courses/30/lessons/1844) | |
+| [도둑질](https://programmers.co.kr/learn/courses/30/lessons/42897) | |
+| [서울에서 경산까지](https://programmers.co.kr/learn/courses/30/lessons/42899) | |
+| [단체사진 찍기](https://programmers.co.kr/learn/courses/30/lessons/1835) | |
+| [튜브의 소개팅](https://programmers.co.kr/learn/courses/30/lessons/1839) | |
+| [GPS](https://programmers.co.kr/learn/courses/30/lessons/1837) | |
+| [리틀 프렌즈 사천성](https://programmers.co.kr/learn/courses/30/lessons/1836) | |
+
+## Level 5
+| 문제 | 코드 |
+| ------------- |:-------------:|
+| [오픈채팅방](https://programmers.co.kr/learn/courses/30/lessons/42888) | |
+| [비밀지도](https://programmers.co.kr/learn/courses/30/lessons/17681) | |
+| [캐시](https://programmers.co.kr/learn/courses/30/lessons/17680) | |
+| [다트 게임](https://programmers.co.kr/learn/courses/30/lessons/17682) | |
+| [n진수 게임](https://programmers.co.kr/learn/courses/30/lessons/17687) | |
+| [방금그곡](https://programmers.co.kr/learn/courses/30/lessons/17683) | |
+| [파일명 정렬](https://programmers.co.kr/learn/courses/30/lessons/17686) | |
+| [프렌즈4블록](https://programmers.co.kr/learn/courses/30/lessons/17679) | |
+| [자동완성](https://programmers.co.kr/learn/courses/30/lessons/17685) | |
+| [압축](https://programmers.co.kr/learn/courses/30/lessons/17684) | |
+| [실패율](https://programmers.co.kr/learn/courses/30/lessons/42889) | |
+| [셔틀버스](https://programmers.co.kr/learn/courses/30/lessons/17678) | |
+| [무지의먹방라이브](https://programmers.co.kr/learn/courses/30/lessons/42891) | |
+| [후보키](https://programmers.co.kr/learn/courses/30/lessons/42890) | |

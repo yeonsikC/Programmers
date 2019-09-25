@@ -21,7 +21,7 @@ https://programmers.co.kr/learn/challenges
 ## Level 1
 | 문제 | 코드 |
 | --- | --- |
-| [완주하지 못한 선수](https://programmers.co.kr/learn/courses/30/lessons/42576) |
+| [완주하지 못한 선수](https://programmers.co.kr/learn/courses/30/lessons/42576) | [py](완주하지_못한_선수.py) 
 | [모의고사](https://programmers.co.kr/learn/courses/30/lessons/42840) |
 | [체육복](https://programmers.co.kr/learn/courses/30/lessons/42862) | 
 | [K번째수](https://programmers.co.kr/learn/courses/30/lessons/42748) |

@@ -5,14 +5,17 @@
 
 https://programmers.co.kr/learn/challenges
 
+| 해시 | Key-value 쌍으로 데이터를 저장하는 자료구조|
+| 스택/큐 | LIFO, FIFO, push & pop |
+
 
 
 | Level 1 |
 | ---------- 
-| [완주하지 못한 선수](https://programmers.co.kr/learn/courses/30/lessons/42576) |
+| [완주하지 못한 선수](https://programmers.co.kr/learn/courses/30/lessons/42576) | 해시 |
 | [모의고사](https://programmers.co.kr/learn/courses/30/lessons/42840) |
-| [체육복](https://programmers.co.kr/learn/courses/30/lessons/42862) |
-| [K번째수](https://programmers.co.kr/learn/courses/30/lessons/42748) |
+| [체육복](https://programmers.co.kr/learn/courses/30/lessons/42862) | 
+| [K번째수](https://programmers.co.kr/learn/courses/30/lessons/42748) | 가장 큰 수 |
 | [2016년](https://programmers.co.kr/learn/courses/30/lessons/12901) |
 | [가운데 글자 가져오기](https://programmers.co.kr/learn/courses/30/lessons/12903) |
 | [같은 숫자는 싫어](https://programmers.co.kr/learn/courses/30/lessons/12906) |

@@ -46,16 +46,16 @@ https://programmers.co.kr/learn/challenges
 | [정수 내림차수으로 배치하기](https://programmers.co.kr/learn/courses/30/lessons/12933) |
 | [정수 제곱근 판판별](https://programmers.co.kr/learn/courses/30/lessons/12934) |
 | [제일 작은 수 제거하기](https://programmers.co.kr/learn/courses/30/lessons/12935) |
-| [짝수와 홀수](https://programmers.co.kr/learn/courses/30/lessons/12936) |
-| [최대공약수와 최소공배수](https://programmers.co.kr/learn/courses/30/lessons/12937) |
-| [콜라츠 추측](https://programmers.co.kr/learn/courses/30/lessons/12938) |
-| [평균 구하기](https://programmers.co.kr/learn/courses/30/lessons/12939) |
-| [하샤드 수](https://programmers.co.kr/learn/courses/30/lessons/12940) |
-| [핸드폰 번호 가리기](https://programmers.co.kr/learn/courses/30/lessons/12941) |
-| [행렬의 덧셈](https://programmers.co.kr/learn/courses/30/lessons/12942) |
-| [x만큼 간격이 있는 n개의 숫자](https://programmers.co.kr/learn/courses/30/lessons/12943) |
-| [직사각형 별찍기](https://programmers.co.kr/learn/courses/30/lessons/12944) |
-| [예산](https://programmers.co.kr/learn/courses/30/lessons/12945) |
+| [짝수와 홀수](https://programmers.co.kr/learn/courses/30/lessons/12937) |
+| [최대공약수와 최소공배수](https://programmers.co.kr/learn/courses/30/lessons/12940) |
+| [콜라츠 추측](https://programmers.co.kr/learn/courses/30/lessons/12943) |
+| [평균 구하기](https://programmers.co.kr/learn/courses/30/lessons/12944) |
+| [하샤드 수](https://programmers.co.kr/learn/courses/30/lessons/12947) |
+| [핸드폰 번호 가리기](https://programmers.co.kr/learn/courses/30/lessons/12948) |
+| [행렬의 덧셈](https://programmers.co.kr/learn/courses/30/lessons/12950) |
+| [x만큼 간격이 있는 n개의 숫자](https://programmers.co.kr/learn/courses/30/lessons/12954) |
+| [직사각형 별찍기](https://programmers.co.kr/learn/courses/30/lessons/12969) |
+| [예산](https://programmers.co.kr/learn/courses/30/lessons/12982) |
 
 ## Level 2
 | 문제 | 코드 |

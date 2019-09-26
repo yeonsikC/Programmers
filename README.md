@@ -42,15 +42,15 @@ https://programmers.co.kr/learn/challenges
 | [약수의 합](https://programmers.co.kr/learn/courses/30/lessons/12928) | [py](약수의_합.py) 
 | [이상한 문자 만들기](https://programmers.co.kr/learn/courses/30/lessons/12930) | [py](이상한_문자_만들기.py) 
 | [자릿수 더하기](https://programmers.co.kr/learn/courses/30/lessons/12931) | [py](자릿수_더하기.py)
-| [자연수 뒤집어 배열로 만들기](https://programmers.co.kr/learn/courses/30/lessons/12932) |
-| [정수 내림차수으로 배치하기](https://programmers.co.kr/learn/courses/30/lessons/12933) |
-| [정수 제곱근 판판별](https://programmers.co.kr/learn/courses/30/lessons/12934) |
-| [제일 작은 수 제거하기](https://programmers.co.kr/learn/courses/30/lessons/12935) |
-| [짝수와 홀수](https://programmers.co.kr/learn/courses/30/lessons/12937) |
-| [최대공약수와 최소공배수](https://programmers.co.kr/learn/courses/30/lessons/12940) |
-| [콜라츠 추측](https://programmers.co.kr/learn/courses/30/lessons/12943) |
-| [평균 구하기](https://programmers.co.kr/learn/courses/30/lessons/12944) |
-| [하샤드 수](https://programmers.co.kr/learn/courses/30/lessons/12947) |
+| [자연수 뒤집어 배열로 만들기](https://programmers.co.kr/learn/courses/30/lessons/12932) |[py](자연수_뒤집어_배열로_만들기.py)
+| [정수 내림차순으로 배치하기](https://programmers.co.kr/learn/courses/30/lessons/12933) |[py](정수_내림차순으로_배치하기.py)
+| [정수 제곱근 판별](https://programmers.co.kr/learn/courses/30/lessons/12934) |[py](정수_제곱근_판별.py)
+| [제일 작은 수 제거하기](https://programmers.co.kr/learn/courses/30/lessons/12935) |[py](제일_작은_수_제거하기.py)
+| [짝수와 홀수](https://programmers.co.kr/learn/courses/30/lessons/12937) |[py](짝수와_홀수.py)
+| [최대공약수와 최소공배수](https://programmers.co.kr/learn/courses/30/lessons/12940) |[py](최대공약수와_최소공배수.py)
+| [콜라츠 추측](https://programmers.co.kr/learn/courses/30/lessons/12943) |[py](콜라츠_추측.py)
+| [평균 구하기](https://programmers.co.kr/learn/courses/30/lessons/12944) |[py](평균_구하기.py)
+| [하샤드 수](https://programmers.co.kr/learn/courses/30/lessons/12947) |[py](하샤드_수.py)
 | [핸드폰 번호 가리기](https://programmers.co.kr/learn/courses/30/lessons/12948) |
 | [행렬의 덧셈](https://programmers.co.kr/learn/courses/30/lessons/12950) |
 | [x만큼 간격이 있는 n개의 숫자](https://programmers.co.kr/learn/courses/30/lessons/12954) |

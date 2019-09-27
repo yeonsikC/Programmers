@@ -51,10 +51,10 @@ https://programmers.co.kr/learn/challenges
 | [콜라츠 추측](https://programmers.co.kr/learn/courses/30/lessons/12943) |[py](콜라츠_추측.py)
 | [평균 구하기](https://programmers.co.kr/learn/courses/30/lessons/12944) |[py](평균_구하기.py)
 | [하샤드 수](https://programmers.co.kr/learn/courses/30/lessons/12947) |[py](하샤드_수.py)
-| [핸드폰 번호 가리기](https://programmers.co.kr/learn/courses/30/lessons/12948) |
-| [행렬의 덧셈](https://programmers.co.kr/learn/courses/30/lessons/12950) |
-| [x만큼 간격이 있는 n개의 숫자](https://programmers.co.kr/learn/courses/30/lessons/12954) |
-| [직사각형 별찍기](https://programmers.co.kr/learn/courses/30/lessons/12969) |
+| [핸드폰 번호 가리기](https://programmers.co.kr/learn/courses/30/lessons/12948) |[py](핸드폰_번호_가리기.py)
+| [행렬의 덧셈](https://programmers.co.kr/learn/courses/30/lessons/12950) |[py](행렬의_덧셈.py)
+| [x만큼 간격이 있는 n개의 숫자](https://programmers.co.kr/learn/courses/30/lessons/12954) |[py](x만큼_간격이_있는_n개의_숫자.py)
+| [직사각형 별찍기](https://programmers.co.kr/learn/courses/30/lessons/12969) |[py](직사각형_.py)
 | [예산](https://programmers.co.kr/learn/courses/30/lessons/12982) |
 
 ## Level 2

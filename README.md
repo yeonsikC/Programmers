@@ -60,7 +60,7 @@ https://programmers.co.kr/learn/challenges
 ## Level 2
 | 문제 | 코드 |
 | ------------- |:-------------:|
-| [탑](https://programmers.co.kr/learn/courses/30/lessons/42588) | |
+| [탑](https://programmers.co.kr/learn/courses/30/lessons/42588) | [py](탑.py)
 | [스킬트리](https://programmers.co.kr/learn/courses/30/lessons/49993) | |
 | [124 나라의 숫자](https://programmers.co.kr/learn/courses/30/lessons/12899) | |
 | [기능개발](https://programmers.co.kr/learn/courses/30/lessons/42586) | |
